@@ -1,0 +1,21 @@
+.red{
+	background: rgba(255, 0, 0 ,0.5);
+}
+.orange{
+	background: rgba(255, 165, 0 ,0.5);
+}
+.yellow{
+	background: rgba(255, 255, 0 ,0.5);
+}
+.green{
+	background: rgba(0, 255, 0 ,0.5);
+}
+.cyan{
+	background: rgba(0, 127, 255 ,0.5);
+}
+.blue{
+	background: rgba(255, 255, 0 ,0.5);
+}
+.purple{
+	background: rgba(139, 0, 255 ,0.5);
+}
